@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,100:0d1b4b&height=250&section=header&text=Abinauw%20B&fontSize=68&fontColor=00d4ff&fontAlignY=40&stroke=00d4ff&strokeWidth=1&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20AI%20Engineer&descAlignY=62&descSize=17&descColor=7ecfff&animation=scaleIn"/>
@@ -27,7 +26,7 @@ CGPA       : 7.77 / 10
 Status     : Final Year Student
 Interests  : Full Stack | DevOps | Cloud | AI | IoT
 Motto      : "Code it. Deploy it. Improve it."
-````
+```
 
 ### 🎯 Current Focus
 
@@ -223,4 +222,3 @@ src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-con
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,40:0d1b4b,100:0a0a2e&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=twinkling"/>
 
 </div>
-```
