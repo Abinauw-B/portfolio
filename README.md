@@ -26,65 +26,24 @@ CGPA       : 7.77 / 10
 Status     : Final Year Student
 Interests  : Full Stack | DevOps | Cloud | AI | IoT
 Motto      : "Code it. Deploy it. Improve it."
-```
 
-### 🎯 Current Focus
-
-* 🔭 Building Production Ready Full Stack Applications
-* 🌱 Learning AWS, Docker, Kubernetes & DevOps
-* 🤖 Developing AI-Powered Solutions using LangChain & Ollama
-* ☁️ Exploring Cloud Infrastructure & Automation
-* 🚀 Preparing for Software Engineer Roles
 
 ---
 
-# 🛠 Tech Stack
+### Part 2/3 — Projects, GitHub Analytics, Contribution Graph
 
-<div align="center">
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,react"/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions"/>
-
-### 🤖 AI & ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`LangChain` • `Ollama` • `Power BI` • `Canva` • `FlutterFlow`
-
-</div>
-
----
-
+````md
 # 🚀 Featured Projects
 
 ## 🚧 Smart Roadside Barricade
 
 ### AI + IoT Based Traffic Safety System
 
-* Real-time Vehicle Detection
-* Pedestrian Monitoring
-* Hazard Identification
-* Deep Learning Based Prediction
-* Smart City Infrastructure Integration
+- Real-time Vehicle Detection
+- Pedestrian Monitoring
+- Hazard Identification
+- Deep Learning Based Prediction
+- Smart City Infrastructure Integration
 
 **Tech Stack**
 
@@ -96,11 +55,11 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ### Sustainable Digital Waste Solution
 
-* Pickup Scheduling
-* Donation Management
-* Recycling Center Locator
-* User Awareness Platform
-* Environmental Sustainability
+- Pickup Scheduling
+- Donation Management
+- Recycling Center Locator
+- User Awareness Platform
+- Environmental Sustainability
 
 **Tech Stack**
 
@@ -112,9 +71,9 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
@@ -128,7 +87,7 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ABINAUW2004&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ABINAUW2004&theme=algolia&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
@@ -138,7 +97,7 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABINAUW2004\&theme=tokyo-night\&hide_border=true)](https://github.com/ABINAUW2004)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABINAUW2004&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -148,18 +107,7 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Snake Animation"
-src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake.svg"/>
-
-</picture>
+<img src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
@@ -167,24 +115,24 @@ src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-con
 
 # 🏆 Achievements & Leadership
 
-* 🏆 Participated in Googleathon 2.0
-* 💡 Smart India Hackathon Participant
-* 📄 Presented Technical Research Paper
-* 📚 Conducted Readers Club Activities
-* 🌱 Organized Tree Plantation Awareness Campaign
-* ⚡ Organized HACKNEXT 30-Hour Hackathon
-* 🚀 Led HACKNEXT Series 2 Successfully
+- 🏆 Participated in Googleathon 2.0
+- 💡 Smart India Hackathon Participant
+- 📄 Presented Technical Research Paper
+- 📚 Conducted Readers Club Activities
+- 🌱 Organized Tree Plantation Awareness Campaign
+- ⚡ Organized HACKNEXT 30-Hour Hackathon
+- 🚀 Led HACKNEXT Series 2 Successfully
 
 ---
 
 # 🎖 Certifications
 
-| Certification          | Issuer    |
-| ---------------------- | --------- |
-| Azure AI Fundamentals  | Microsoft |
-| Python Nano Degree     | PrepInsta |
-| Java Basic Coding      | PrepInsta |
-| DSA in Java            | PrepInsta |
+| Certification | Issuer |
+|--------------|---------|
+| Azure AI Fundamentals | Microsoft |
+| Python Nano Degree | PrepInsta |
+| Java Basic Coding | PrepInsta |
+| DSA in Java | PrepInsta |
 | Full Stack Development | PrepInsta |
 
 ---
