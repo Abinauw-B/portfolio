@@ -1,199 +1,118 @@
-# <div align="center">
+# Hi there, I'm Abinauw B 👋 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=ABINAUW%20B&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Engineer&descAlignY=60&descSize=18"/>
-
-### 🚀 Building Scalable Applications • Automating Infrastructure • Exploring AI
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ABINAUW2004&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Final%20Year%20Student-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-orange?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Location-Coimbatore,%20India-brightgreen?style=flat-square" alt="Location">
 </p>
 
-</div>
+> 🎯 **Motto:** *"Code it. Deploy it. Improve it."*
+
+I am a passionate aspiring Software Engineer specializing in building scalable applications, automating infrastructure, and exploring AI/IoT solutions. Currently in my final year, I bridge the gap between robust software development and seamless cloud deployment.
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```yaml
-Name       : Abinauw B
-Role       : Software Engineer
-Location   : Coimbatore, Tamil Nadu, India
-Education  : B.E. Computer Science & Technology
-College    : SNS College of Engineering
-CGPA       : 7.77 / 10
-Status     : Final Year Student
-Interests  : Full Stack | DevOps | Cloud | AI | IoT
-Motto      : "Code it. Deploy it. Improve it."
-```
+- 🎓 **Education:** B.E. Computer Science & Technology at **SNS College of Engineering**
+- 📊 **Academic standing:** CGPA 7.77 / 10
+- 💡 **Interests:** Full Stack Development | DevOps | Cloud Computing | AI | IoT
+- 🤝 **Open To:** Internships • Full-Time Roles • Freelance • Open Source
+
+---
 
 ### 🎯 Current Focus
 
-* 🔭 Building Full Stack Applications
-* 🌱 Learning AWS, Docker, Kubernetes & DevOps
-* 🤖 Developing AI-Powered Solutions using LangChain
-* ☁️ Exploring Cloud Infrastructure & Automation
-* 🚀 Preparing for Software Engineer Roles
+- 🔭 **Building:** Production-ready Full Stack Applications.
+- 🌱 **Learning & Mastering:** AWS, Docker, Kubernetes & modern DevOps practices.
+- 🤖 **AI Innovation:** Developing AI-Powered Solutions using LangChain and Ollama.
+- ☁️ **Cloud:** Exploring Advanced Cloud Infrastructure & Automation.
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
-<div align="center">
+#### 💻 Development & Databases
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend
+#### ☁️ DevOps, Cloud & AI
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,python,nodejs"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions"/>
-
-### AI & ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</div>
-
-### Additional Tools
-
-`LangChain` • `Ollama` • `Postman` • `Power BI` • `VS Code` • `Figma` • `Canva`
+#### 🧰 Tools & Design
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
-## 🚧 Smart Roadside Barricade
+#### 🚧 Smart Roadside Barricade
+> **AI + IoT Based Traffic Safety System**
+* **Core Features:** Real-time Vehicle Detection, Pedestrian Monitoring, Hazard Identification, and Smart City Integration using Deep Learning Models.
+* **Tech Stack:** `Python` • `OpenCV` • `Deep Learning` • `IoT`
 
-### AI + IoT Based Traffic Safety System
-
-* Real-time Vehicle Detection
-* Pedestrian Monitoring
-* Hazard Identification
-* Deep Learning Models
-* Smart City Integration
-
-**Tech Stack**
-
-`Python` • `OpenCV` • `Deep Learning` • `IoT`
+#### ♻️ E-Waste Management Platform
+> **Sustainable Digital Waste Solution**
+* **Core Features:** Pickup Scheduling, Donation Management, Recycling Center Locator, and a User Awareness System focused on environmental sustainability.
+* **Tech Stack:** `JavaScript` • `Python` • `MongoDB` • `AWS`
 
 ---
 
-## ♻️ E-Waste Management Platform
+### 📊 GitHub Analytics & Contributions
 
-### Sustainable Digital Waste Solution
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+</p>
 
-* Pickup Scheduling
-* Donation Management
-* Recycling Center Locator
-* User Awareness System
-* Environmental Sustainability
-
-**Tech Stack**
-
-`JavaScript` • `Python` • `MongoDB` • `AWS`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ABINAUW2004&theme=tokyonight&hide_border=true"/>
-
-</div>
+#### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-# 📈 Contribution Graph
+### 🏆 Achievements & Leadership
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABINAUW2004\&theme=tokyo-night\&hide_border=true)](https://github.com/ABINAUW2004)
-
-</div>
-
----
-
-# 🏆 Achievements
-
-* 🏆 Participated in Googleathon 2.0
-* 💡 Smart India Hackathon Participant
-* 📄 Presented Technical Research Paper
-* 📚 Conducted Readers Club Activities
-* 🌱 Organized Tree Plantation Awareness Campaign
-* ⚡ Organized HACKNEXT 30-Hour Hackathon
-* 🚀 Led HACKNEXT Series 2 Successfully
+- 💡 **Smart India Hackathon** — Participant
+- 🏆 **Googleathon 2.0** — Participant
+- ⚡ **HACKNEXT 30-Hour Hackathon** — Lead Organizer
+- 🚀 **HACKNEXT Series 2** — Successfully organized and led
+- 📄 **Research:** Presented Technical Research Paper
+- 🌱 **Community:** Organized Tree Plantation Awareness Campaign & conducted Readers Club Activities
 
 ---
 
-# 🎖 Certifications
+### 🎖 Certifications
 
-| Certification          | Issuer    |
-| ---------------------- | --------- |
-| Azure AI Fundamentals  | Microsoft |
-| Python Nano Degree     | PrepInsta |
-| Java Basic Coding      | PrepInsta |
-| DSA in Java            | PrepInsta |
-| Full Stack Development | PrepInsta |
-
----
-
-# 🐍 Contribution Snake
-
-> ⚠️ Before this appears, create the GitHub Action workflow and enable "Read and Write Permissions" in Actions settings.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
+| Certification | Issuer |
+| :--- | :--- |
+| **Azure AI Fundamentals** | Microsoft |
+| **Python Nano Degree** | PrepInsta |
+| **Java Basic Coding** | PrepInsta |
+| **DSA in Java** | PrepInsta |
+| **Full Stack Development** | PrepInsta |
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:reachabinauwbalaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ABINAUW2004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for Visiting My Profile
-
-### Open To Internships • Full-Time Roles • Freelance • Open Source
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:0ea5e9"/>
-
-</div>
+⚡ *Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just talk tech.*
