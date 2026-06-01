@@ -5,7 +5,7 @@
 ### 🚀 Building Scalable Applications • Automating Infrastructure • Exploring AI
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ABINAUW2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ABINAUW2004&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
 </p>
 
 </div>
@@ -30,7 +30,7 @@ Motto      : "Code it. Deploy it. Improve it."
 
 * 🔭 Building Full Stack Applications
 * 🌱 Learning AWS, Docker, Kubernetes & DevOps
-* 🤖 Developing AI-powered Solutions using LangChain
+* 🤖 Developing AI-Powered Solutions using LangChain
 * ☁️ Exploring Cloud Infrastructure & Automation
 * 🚀 Preparing for Software Engineer Roles
 
@@ -38,35 +38,29 @@ Motto      : "Code it. Deploy it. Improve it."
 
 # 🛠 Tech Stack
 
-## Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+### Frontend
 
-## Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
-<p>
+### Backend
+
 <img src="https://skillicons.dev/icons?i=java,python,nodejs"/>
-</p>
 
-## Database
+### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions"/>
-</p>
 
-## AI & Machine Learning
+### AI & ML
 
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+
+</div>
 
 ### Additional Tools
 
@@ -80,11 +74,11 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ### AI + IoT Based Traffic Safety System
 
-* Real-time vehicle and pedestrian detection
-* Deep Learning powered hazard identification
-* Computer Vision based monitoring
-* Smart City infrastructure integration
-* Reduced manual intervention
+* Real-time Vehicle Detection
+* Pedestrian Monitoring
+* Hazard Identification
+* Deep Learning Models
+* Smart City Integration
 
 **Tech Stack**
 
@@ -96,11 +90,11 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ### Sustainable Digital Waste Solution
 
-* E-waste pickup scheduling
-* Donation management system
-* Recycling center locator
-* User awareness platform
-* Environment-friendly disposal workflow
+* Pickup Scheduling
+* Donation Management
+* Recycling Center Locator
+* User Awareness System
+* Environmental Sustainability
 
 **Tech Stack**
 
@@ -112,9 +106,9 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -122,7 +116,17 @@ Motto      : "Code it. Deploy it. Improve it."
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABINAUW2004&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ABINAUW2004&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABINAUW2004\&theme=tokyo-night\&hide_border=true)](https://github.com/ABINAUW2004)
 
 </div>
 
@@ -133,8 +137,8 @@ Motto      : "Code it. Deploy it. Improve it."
 * 🏆 Participated in Googleathon 2.0
 * 💡 Smart India Hackathon Participant
 * 📄 Presented Technical Research Paper
-* 🌱 Organized Environmental Awareness Campaign
 * 📚 Conducted Readers Club Activities
+* 🌱 Organized Tree Plantation Awareness Campaign
 * ⚡ Organized HACKNEXT 30-Hour Hackathon
 * 🚀 Led HACKNEXT Series 2 Successfully
 
@@ -152,21 +156,13 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABINAUW2004&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
+> ⚠️ Before this appears, create the GitHub Action workflow and enable "Read and Write Permissions" in Actions settings.
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
@@ -174,21 +170,21 @@ Motto      : "Code it. Deploy it. Improve it."
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:reachabinauwbalaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ABINAUW2004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -196,7 +192,7 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ### ⭐ Thanks for Visiting My Profile
 
-### If you like my projects, consider giving them a star ⭐
+### Open To Internships • Full-Time Roles • Freelance • Open Source
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:0ea5e9"/>
 
