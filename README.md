@@ -1,34 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,100:0d1b4b&height=220&section=header&text=Abinauw%20B&fontSize=68&fontColor=00d4ff&fontAlignY=40&stroke=00d4ff&strokeWidth=1&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20DevOps%20Engineer%20|%20AI%20Engineer&descAlignY=62&descSize=17&descColor=7ecfff&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:06b6d4&text=ABINAUW%20B&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20|%20DevOps%20|%20AI%20Engineer&descAlignY=60&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+🚀;Full+Stack+Developer+💻;DevOps+Engineer+☁️;AI+Engineer+🤖;Building+Scalable+Applications+🔥;Always+Learning+New+Technologies+📚"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+🚀;Full+Stack+Developer+💻;DevOps+Engineer+☁️;AI+Engineer+🤖;Building+Scalable+Systems+🔥;Cloud+%26+Automation+Enthusiast+⚙️"/>
 </a>
 
 <br><br>
 
-<a href="https://linkedin.com/in/abinauwb-balaji">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:reachabinauwbalaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ABINAUW2004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ABINAUW2004&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ABINAUW2004&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -36,95 +22,34 @@
 Name       : Abinauw B
 Role       : Software Engineer
 Location   : Coimbatore, Tamil Nadu, India
-Education  : B.E. Computer Science & Technology
+Education  : B.E. Computer Science & Engineering
 College    : SNS College of Engineering
 CGPA       : 7.77 / 10
 Status     : Final Year Student
 Interests  : Full Stack | DevOps | Cloud | AI | IoT
 Motto      : "Code it. Deploy it. Improve it."
-```
-
-## 🎯 Current Focus
-
-- 🔭 Building AI-Integrated Full Stack Applications
-- 🌱 Deepening skills in AWS, Docker, Kubernetes & DevOps
-- 🤖 Developing AI-Powered Solutions using LangChain & Ollama
-- ☁️ Exploring Cloud Infrastructure & Automation
-- 🚀 Preparing for Software Engineer Roles
-
-## 💡 Highlights
-
-- 🏆 Organized & Led HACKNEXT 30-Hour Hackathon
-- 🌍 Passionate about Smart City Technology & Sustainability
-- 💻 Strong Interest in Cloud Native Development
-- 📚 Continuous Learner and Technology Enthusiast
-
-<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 🌐 Frontend & UI/UX
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-
-### ⚙️ Backend & Programming
-
-<img src="https://skillicons.dev/icons?i=java,python,nodejs"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,githubactions"/>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-
-</div>
-
-<div align="center">
-
-### Additional Technologies
-
-`LangChain` • `Ollama` • `Power BI` • `Canva` • `FlutterFlow` • `OpenCV` • `Deep Learning` • `IoT`
-
-</div>
-
----
-|
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 ## 🚧 Smart Roadside Barricade
 
-### AI + IoT Based Traffic Safety System
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550"/>
+### AI + IoT Based Traffic Safety System
 
 </div>
 
-| Feature | Description |
-|----------|------------|
-| 🎯 Real-Time Vehicle Detection | Identifies moving vehicles instantly |
-| 🚶 Pedestrian Monitoring | Tracks pedestrian movement in live feed |
-| ⚠️ Hazard Identification | Detects road-level hazards proactively |
-| 🧠 Deep Learning Prediction | Predicts risk scenarios using trained models |
-| 🏙️ Smart City Integration | Scales seamlessly into smart city infrastructure |
+- 🎯 Real-Time Vehicle Detection  
+- 🚶 Pedestrian Monitoring  
+- ⚠️ Hazard Identification System  
+- 🧠 Deep Learning Prediction Model  
+- 🏙️ Smart City Integration  
 
-### 🛠 Tech Stack
-
+**Tech Stack:**  
 `Python` • `OpenCV` • `Deep Learning` • `IoT`
 
 ---
@@ -133,53 +58,54 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ## ♻️ E-Waste Management Platform
 
-### Sustainable Digital Waste Solution
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="520"/>
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="550"/>
+### Sustainable Digital Waste Solution
 
 </div>
 
-| Feature | Description |
-|----------|------------|
-| 📅 Pickup Scheduling | Users can book e-waste collection slots |
-| 🎁 Donation Management | Donate reusable electronics |
-| 📍 Recycling Center Locator | Find nearby recycling centers |
-| 📣 User Awareness Platform | Educates users on e-waste impact |
-| 🌍 Environmental Sustainability | Promotes responsible disposal practices |
+- 📅 Pickup Scheduling System  
+- 🎁 Donation Management  
+- 📍 Recycling Center Locator  
+- 📣 Awareness Platform  
+- 🌍 Sustainability Focus  
 
-### 🛠 Tech Stack
-
+**Tech Stack:**  
 `JavaScript` • `Python` • `MongoDB` • `AWS`
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics (FIXED + MODERN UI)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ABINAUW2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=7ecfff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABINAUW2004&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff"/>
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=ABINAUW2004&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=FF6B6B&currStreakLabel=00d4ff&sideLabels=7ecfff&dates=7ecfff"/>
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ABINAUW2004&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (UPDATED STYLE)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ABINAUW2004&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ABINAUW2004&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Dashboard
+## 📈 Contribution Graph (MODERN DASHBOARD)
 
 <div align="center">
 
@@ -189,129 +115,119 @@ Motto      : "Code it. Deploy it. Improve it."
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 Language Stats Cards
 
 <div align="center">
 
-<picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABINAUW2004&theme=tokyonight"/>
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Snake Animation"
-src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake.svg"/>
-
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABINAUW2004&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements & Leadership
+## 🐍 Contribution Snake (FIXED WORKING VERSION)
 
 <div align="center">
 
-| Achievement | Year |
-|------------|------|
-| 🏆 Participated in Googleathon 2.0 | 2023 |
-| 📄 Presented Technical Research Paper – Ramakrishna College of Engineering | 2023 |
-| 📚 Conducted Readers Club Activities | 2023 |
-| 🌱 Organized Tree Plantation Awareness Campaign | 2023 |
-| 💡 Smart India Hackathon Participant | 2024 |
-| ⚡ Organized HACKNEXT 30-Hour Hackathon | 2025 |
-| 🚀 Led HACKNEXT Series 2 Successfully | 2025 |
+<img src="https://raw.githubusercontent.com/ABINAUW2004/ABINAUW2004/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🎖 Certifications
+## 📌 NEXT STEP
+
+👉 Reply **"Part 3"** for:
+- 🏆 Achievements (clean timeline format)
+- 🎖 Certifications (modern table)
+- 🌐 Contact section (fully styled buttons)
+- 🚀 Open to Opportunities
+- ✨ Final animated footer (premium style)
+
+---
+
+## 🏆 Achievements & Leadership
 
 <div align="center">
 
-| Certification | Issuer | Domain |
-|--------------|--------|---------|
-| ☁️ Azure AI Fundamentals | Microsoft | Cloud & AI |
-| 🐍 Python Nano Degree | PrepInsta | Programming |
-| ☕ Java Basic Coding | PrepInsta | Programming |
-| 🔍 DSA in Java | PrepInsta | Algorithms |
-| 🌐 Full Stack Development | PrepInsta | Web Development |
+| 🏅 Achievement | 📅 Year |
+|---------------|--------|
+| Participated in Googleathon 2.0 | 2023 |
+| Presented Technical Research Paper | 2023 |
+| Conducted Readers Club Activities | 2023 |
+| Tree Plantation Awareness Campaign | 2023 |
+| Smart India Hackathon Participant | 2024 |
+| Organized HACKNEXT 30-Hour Hackathon | 2025 |
+| Led HACKNEXT Series 2 Successfully | 2025 |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🎖 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Issuer | 📚 Domain |
+|-----------------|-----------|----------|
+| Azure AI Fundamentals | Microsoft | Cloud & AI |
+| Python Nano Degree | PrepInsta | Programming |
+| Java Basic Coding | PrepInsta | Programming |
+| DSA in Java | PrepInsta | Algorithms |
+| Full Stack Development | PrepInsta | Web Development |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/abinauwb-balaji">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:reachabinauwbalaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ABINAUW2004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing+Together+🚀;Open+to+Internships+and+Full-Time+Roles+💼;Passionate+About+DevOps+Cloud+and+AI+🤖;Always+Learning+Always+Growing+📚"/>
+---
+
+## 🚀 Open To Opportunities
+
+<div align="center">
+
+**Internships • Full-Time Roles • Freelance • Open Source Contributions**
 
 </div>
 
 ---
 
-# 📫 Contact Information
+## 💡 Interests
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | reachabinauwbalaji@gmail.com |
-| 💼 LinkedIn | linkedin.com/in/abinauwb-balaji |
-| 💻 GitHub | github.com/ABINAUW2004 |
+Software Engineering • Full Stack Development • DevOps • Cloud Computing • Artificial Intelligence • IoT
 
 </div>
 
 ---
 
-# 🚀 Open To Opportunities
+## ✨ Final Footer
 
 <div align="center">
 
-### Internships • Full-Time Roles • Freelance • Open Source
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:06b6d4&text=Thanks%20For%20Visiting!&fontColor=ffffff&fontSize=28&fontAlignY=65&animation=twinkling"/>
 
-</div>
-
----
-
-# 💡 Areas of Interest
-
-<div align="center">
-
-`Software Engineering` • `Full Stack Development` • `DevOps` • `Cloud Computing` • `Artificial Intelligence` • `IoT`
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks For Visiting My Profile
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Code+it+🚀;Deploy+it+☁️;Improve+it+🔥;Keep+Learning+📚;Build+Impactful+Solutions+💡"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,40:0d1b4b,100:0a0a2e&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=00d4ff&fontAlignY=65&animation=twinkling"/>
-
-### 🌟 If you find my work useful, consider giving a star to my repositories!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Code+it+🚀;Deploy+it+☁️;Improve+it+🔥;Never+Stop+Learning+📚"/>
 
 </div>
